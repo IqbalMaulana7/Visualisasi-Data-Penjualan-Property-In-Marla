@@ -4,7 +4,7 @@
 - **Name:** Iqbal Maulana Kholidi
 - **Program:** IBM Advanced AI
 
-## GROUP 2
+## GROUP 1
 **Anggota Kelompok :**
 
 1. Rizky Sahat Arapenta Situmeang
